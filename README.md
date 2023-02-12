@@ -1,6 +1,6 @@
 # Ultrafolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/78a3cf4b-6b1d-44d7-a54a-7a52b9ee1cbb/deploy-status)](https://app.netlify.com/sites/ultrafolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bdd093e8-57bd-49fd-bfde-03aa3a19f1e0/deploy-status)](https://app.netlify.com/sites/ultrafolio/deploys)
 
 Ultrafolio is a website for a personal portfolio. It depends on JSON API to get the portfolio data.
 
