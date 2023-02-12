@@ -1,0 +1,109 @@
+{
+    "work": [
+        {
+            "id": 1,
+            "icon": "faPencilRuler",
+            "title": "UX/UI",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad commodi sapiente accusamus repudiandae, nihil est quidem laudantium nulla fuga recusandae et eveniet deleniti ipsa. Maiores aperiam expedita labore nesciunt sint."
+        },
+        {
+            "id": 2,
+            "icon": "faLaptop",
+            "title": "Web Developer",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad commodi sapiente accusamus repudiandae, nihil est quidem laudantium nulla fuga recusandae et eveniet deleniti ipsa. Maiores aperiam expedita labore nesciunt sint."
+        },
+        {
+            "id": 3,
+            "icon": "faMobile",
+            "title": "IOS Developer",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad commodi sapiente accusamus repudiandae, nihil est quidem laudantium nulla fuga recusandae et eveniet deleniti ipsa. Maiores aperiam expedita labore nesciunt sint."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "category": "web",
+            "image": "images/Portfolio/portfolio-img1.jpg",
+            "title": "Milano Gym"
+        },
+        {
+            "id": 2,
+            "category": "web",
+            "image": "images/Portfolio/portfolio-img2.jpg",
+            "title": "Underground"
+        },
+        {
+            "id": 3,
+            "category": "web",
+            "image": "images/Portfolio/portfolio-img3.jpg",
+            "title": "Epco Designs"
+        },
+        {
+            "id": 4,
+            "category": "web",
+            "image": "images/Portfolio/portfolio-img4.jpg",
+            "title": "Malay Air"
+        },
+        {
+            "id": 5,
+            "category": "mobile",
+            "image": "images/Portfolio/portfolio-img5.jpg",
+            "title": "What Weather "
+        },
+        {
+            "id": 6,
+            "category": "mobile",
+            "image": "images/Portfolio/portfolio-img6.jpg",
+            "title": "Memory Game"
+        },
+        {
+            "id": 7,
+            "category": "mobile",
+            "image": "images/Portfolio/portfolio-img7.jpg",
+            "title": "Chat Me"
+        },
+        {
+            "id": 8,
+            "category": "mobile",
+            "image": "images/Portfolio/portfolio-img8.jpg",
+            "title": "Hangman Game"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "percent": 85,
+            "title": "Bootstrap"
+        },
+        {
+            "id": 2,
+            "percent": 95,
+            "title": "CSS"
+        },
+        {
+            "id": 3,
+            "percent": 70,
+            "title": "Javascript"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "icon": "facebook",
+            "title": "Follow me on Social Facebook",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "icon": "twitter",
+            "title": "Tweet me on Social Twitter",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "icon": "youtube",
+            "title": "Watch me on Youtube Channel",
+            "link": "#"
+        }
+    ]
+}

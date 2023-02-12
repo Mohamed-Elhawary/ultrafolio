@@ -1,0 +1,4 @@
+nav .navbar-nav a.active,
+nav .navbar-nav a:hover {
+    color: #E33545!important;
+}
